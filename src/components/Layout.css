@@ -10,3 +10,13 @@
   margin-top: 1rem;
   font-size: 20px;
 }
+.logout-btn {
+  padding: 10px;
+  background: orangered;
+  border: none;
+  transition: transform 1s;
+}
+.logout-btn:hover {
+  background: rgb(0, 6, 59);
+  transform: rotate(360deg);
+}
